@@ -1,0 +1,11 @@
+Metric,Class,Value
+Precision,0.0,1.0
+Precision,1.0,0.0
+Precision,2.0,0.85
+Recall,0.0,1.0
+Recall,1.0,0.0
+Recall,2.0,0.94
+F1-Score,0.0,1.0
+F1-Score,1.0,0.0
+F1-Score,2.0,0.89
+Accuracy,Overall,0.9
